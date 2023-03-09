@@ -1,5 +1,5 @@
 # Superstore Sales Dashboard
-This project identifies the Superstore sales trends over four years from 2011 – 2014 and performance of different product categories.
+This project identifies the Superstore sales trends over four years, from 2011 – 2014 and performance of different product categories.
 
 Utilizes the following functions:
 
